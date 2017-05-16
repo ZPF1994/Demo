@@ -3,5 +3,6 @@ package com.yaorange;
 public class AAA {
 	public static void main(String[] args) {
 		System.out.println("aaa");
+		System.out.println("bbb");
 	}
 }
